@@ -1,0 +1,21 @@
+{
+  "name": "week9_web_java",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reigv/week9_web_java.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/reigv/week9_web_java/issues"
+  },
+  "homepage": "https://github.com/reigv/week9_web_java#readme"
+}
