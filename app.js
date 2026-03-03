@@ -45,3 +45,10 @@ arr2.push(6);
 console.log(arr2);
 arr2.shift();
 console.log(arr2);
+
+
+//loop 
+const countries = ["India", "USA", "UK", "Australia"];
+for (let c of countries) {
+    console.log(c);
+}
